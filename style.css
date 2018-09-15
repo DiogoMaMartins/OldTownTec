@@ -12,14 +12,14 @@ span{
   position:absolute;
   display:grid;
   grid-template-columns: 20% 50%;
-  grid-row-gap: 20px;
+  grid-row-gap: 30px;
   grid-column-gap: 10px;
   
 }
 
 .corpo div{
   background:white;
-  padding:53px;
+  padding:100px;
   border-radius:1%;
   
   
@@ -83,17 +83,17 @@ input{
   height:60px;
   left:16%;
   position: absolute;
-  top:31%;
+  top:34%;
 }
 .face{
-top:33%;
+top:36%;
 }
 .linke{
-top:33%;
+top:36%;
 
 }
 .twite{
-top:33%;
+top:36%;
 
 }
 .linkedin{
@@ -101,7 +101,7 @@ top:33%;
   height:50px;
   left:36%;
   position:absolute;
-  top:31%;
+  top:34%;
 }
 
 .twiter{
@@ -109,7 +109,7 @@ top:33%;
   left:56%;
   width:60px;
   height:60px;
-  top:31%;
+  top:34%;
 
 }
 .face{
