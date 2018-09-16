@@ -11,7 +11,7 @@ span{
   left:350px;
   position:absolute;
   display:grid;
-  grid-template-columns: 20% 50%;
+  grid-template-columns: 30% 50%;
   grid-row-gap: 30px;
   grid-column-gap: 10px;
   
