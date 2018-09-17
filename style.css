@@ -21,11 +21,7 @@ article{
   border-radius:1%;
   
 }
-section{
-  background:white;
-  border-radius:1%;
-  height:140%;
-}
+
 .corpo div{
   background:white;
   padding:100px;
@@ -143,6 +139,7 @@ tr{
 }
 .favorite{
   text-align: center;
+  color:gray;
   
 
 }
